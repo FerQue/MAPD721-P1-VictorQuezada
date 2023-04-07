@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">finalproject</string>
     <string name="menuCaptionToday">Today</string>
     <string name="menuCaption7Days">7 Days</string>
     <string name="mainCationSettings">Settings</string>
