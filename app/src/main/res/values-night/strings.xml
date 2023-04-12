@@ -1,11 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">finalproject</string>
     <string name="menuCaptionToday">Today</string>
     <string name="menuCaption7Days">7 Days</string>
     <string name="mainCationSettings">Settings</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="itemDate">4 - Abr -23</string>
     <string name="dateInfoDescription">Date Information</string>
-    <string name="imagenweatherimagedescription">Item Imagen Description</string>
+    <string name="imagenweatherimagedescription">Image Description</string>
 </resources>
