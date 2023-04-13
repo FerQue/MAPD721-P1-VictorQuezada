@@ -69,27 +69,40 @@
 41-->D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\app\src\main\AndroidManifest.xml:26:17-33
 42        </activity>
 43
-44        <provider
-44-->[androidx.emoji2:emoji2:1.2.0] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\3e25e7121969fab30f868ba4d197dfd7\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-45            android:name="androidx.startup.InitializationProvider"
-45-->[androidx.emoji2:emoji2:1.2.0] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\3e25e7121969fab30f868ba4d197dfd7\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-46            android:authorities="com.example.finalproject.androidx-startup"
-46-->[androidx.emoji2:emoji2:1.2.0] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\3e25e7121969fab30f868ba4d197dfd7\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-47            android:exported="false" >
-47-->[androidx.emoji2:emoji2:1.2.0] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\3e25e7121969fab30f868ba4d197dfd7\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-48            <meta-data
-48-->[androidx.emoji2:emoji2:1.2.0] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\3e25e7121969fab30f868ba4d197dfd7\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-49                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-49-->[androidx.emoji2:emoji2:1.2.0] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\3e25e7121969fab30f868ba4d197dfd7\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-50                android:value="androidx.startup" />
-50-->[androidx.emoji2:emoji2:1.2.0] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\3e25e7121969fab30f868ba4d197dfd7\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-51            <meta-data
-51-->[androidx.lifecycle:lifecycle-process:2.4.1] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\c22d1c5bbe1564a135be4f85fdd6567d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-52                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-52-->[androidx.lifecycle:lifecycle-process:2.4.1] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\c22d1c5bbe1564a135be4f85fdd6567d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-53                android:value="androidx.startup" />
-53-->[androidx.lifecycle:lifecycle-process:2.4.1] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\c22d1c5bbe1564a135be4f85fdd6567d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-54        </provider>
-55    </application>
-56
-57</manifest>
+44        <uses-library
+44-->[androidx.window:window:1.0.0] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\703d3edcd7a6bc9331b72a50a89b3f98\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+45            android:name="androidx.window.extensions"
+45-->[androidx.window:window:1.0.0] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\703d3edcd7a6bc9331b72a50a89b3f98\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+46            android:required="false" />
+46-->[androidx.window:window:1.0.0] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\703d3edcd7a6bc9331b72a50a89b3f98\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+47        <uses-library
+47-->[androidx.window:window:1.0.0] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\703d3edcd7a6bc9331b72a50a89b3f98\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+48            android:name="androidx.window.sidecar"
+48-->[androidx.window:window:1.0.0] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\703d3edcd7a6bc9331b72a50a89b3f98\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+49            android:required="false" />
+49-->[androidx.window:window:1.0.0] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\703d3edcd7a6bc9331b72a50a89b3f98\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+50
+51        <provider
+51-->[androidx.emoji2:emoji2:1.2.0] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\3e25e7121969fab30f868ba4d197dfd7\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+52            android:name="androidx.startup.InitializationProvider"
+52-->[androidx.emoji2:emoji2:1.2.0] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\3e25e7121969fab30f868ba4d197dfd7\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+53            android:authorities="com.example.finalproject.androidx-startup"
+53-->[androidx.emoji2:emoji2:1.2.0] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\3e25e7121969fab30f868ba4d197dfd7\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+54            android:exported="false" >
+54-->[androidx.emoji2:emoji2:1.2.0] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\3e25e7121969fab30f868ba4d197dfd7\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+55            <meta-data
+55-->[androidx.emoji2:emoji2:1.2.0] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\3e25e7121969fab30f868ba4d197dfd7\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+56                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+56-->[androidx.emoji2:emoji2:1.2.0] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\3e25e7121969fab30f868ba4d197dfd7\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+57                android:value="androidx.startup" />
+57-->[androidx.emoji2:emoji2:1.2.0] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\3e25e7121969fab30f868ba4d197dfd7\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+58            <meta-data
+58-->[androidx.lifecycle:lifecycle-process:2.4.1] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\c22d1c5bbe1564a135be4f85fdd6567d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+59                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+59-->[androidx.lifecycle:lifecycle-process:2.4.1] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\c22d1c5bbe1564a135be4f85fdd6567d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+60                android:value="androidx.startup" />
+60-->[androidx.lifecycle:lifecycle-process:2.4.1] D:\Estudio\Victor\AppAndroidClima\MAPD721-P1-VictorQuezada\gradle\caches\transforms-3\c22d1c5bbe1564a135be4f85fdd6567d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+61        </provider>
+62    </application>
+63
+64</manifest>

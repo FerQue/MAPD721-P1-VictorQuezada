@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Estudio\\Victor\\AppAndroidClima\\MAPD721-P1-VictorQuezada\\gradle\\daemon\\7.4\\com.example.finalproject.app-mergeDebugResources-3:\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "com.example.finalproject.app-mergeDebugResources-3:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "D:\\Estudio\\Victor\\AppAndroidClima\\MAPD721-P1-VictorQuezada\\gradle\\caches\\transforms-3\\43828a5b8c80311d37d7412f8bd42aa6\\transformed\\material-1.8.0\\res\\values-night-v8\\values-night-v8.xml",
@@ -11,79 +11,6 @@
                         "startOffsets": "55,130,241,330,431,538,645,744,851,954,1042,1166,1268,1370,1486,1588,1702,1830,1946,2068,2204,2324,2458,2578,2690,2816,2933,3057,3187,3309,3447,3581,3697",
                         "endColumns": "74,110,88,100,106,106,98,106,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
                         "endOffsets": "125,236,325,426,533,640,739,846,949,1037,1161,1263,1365,1481,1583,1697,1825,1941,2063,2199,2319,2453,2573,2685,2811,2928,3052,3182,3304,3442,3576,3692,3812"
-                    },
-                    "to": {
-                        "startLines": "25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,51,52,53,54,55,56,57,58",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1431,1506,1617,1706,1807,1914,2021,2120,2227,2330,2418,2542,2644,2746,2862,2964,3078,3206,3322,3444,3580,3700,3834,3954,4066,4281,4398,4522,4652,4774,4912,5046,5162",
-                        "endColumns": "74,110,88,100,106,106,98,106,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
-                        "endOffsets": "1501,1612,1701,1802,1909,2016,2115,2222,2325,2413,2537,2639,2741,2857,2959,3073,3201,3317,3439,3575,3695,3829,3949,4061,4187,4393,4517,4647,4769,4907,5041,5157,5277"
-                    }
-                },
-                {
-                    "source": "D:\\Estudio\\Victor\\AppAndroidClima\\MAPD721-P1-VictorQuezada\\app\\src\\main\\res\\values-night\\strings.xml",
-                    "from": {
-                        "startLines": "4,3,2",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "162,109,57",
-                        "endColumns": "55,51,50",
-                        "endOffsets": "213,156,103"
-                    },
-                    "to": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,111,163",
-                        "endColumns": "55,51,50",
-                        "endOffsets": "106,158,209"
-                    }
-                },
-                {
-                    "source": "D:\\Estudio\\Victor\\AppAndroidClima\\MAPD721-P1-VictorQuezada\\gradle\\caches\\transforms-3\\8ee1ed797d6cc28b95d6e33adcbe00e9\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593,687",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "120,204,288,384,486,588,682,771"
-                    },
-                    "to": {
-                        "startLines": "5,6,7,8,9,10,11,50",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "214,284,368,452,548,650,752,4192",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "279,363,447,543,645,747,841,4276"
-                    }
-                },
-                {
-                    "source": "D:\\Estudio\\Victor\\AppAndroidClima\\MAPD721-P1-VictorQuezada\\app\\src\\main\\res\\values-night\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "102",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "815"
-                    },
-                    "to": {
-                        "startLines": "12",
-                        "startColumns": "4",
-                        "startOffsets": "846",
-                        "endLines": "24",
-                        "endColumns": "12",
-                        "endOffsets": "1426"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "com.example.finalproject.app-mergeDebugResources-3:/values-night-v8/values-night-v8.xml",
-            "map": [
-                {
-                    "source": "D:\\Estudio\\Victor\\AppAndroidClima\\MAPD721-P1-VictorQuezada\\gradle\\caches\\transforms-3\\43828a5b8c80311d37d7412f8bd42aa6\\transformed\\material-1.8.0\\res\\values-night-v8\\values-night-v8.xml",
-                    "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
                         "startLines": "28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,54,55,56,57,58,59,60,61",
@@ -96,11 +23,11 @@
                 {
                     "source": "D:\\Estudio\\Victor\\AppAndroidClima\\MAPD721-P1-VictorQuezada\\app\\src\\main\\res\\values-night\\strings.xml",
                     "from": {
-                        "startLines": "6,7,5,-1,-1,-1",
-                        "startColumns": "4,4,4,-1,-1,-1",
-                        "startOffsets": "269,335,219,-1,-1,-1",
-                        "endColumns": "64,75,48,-1,-1,-1",
-                        "endOffsets": "329,406,263,-1,-1,-1"
+                        "startLines": "6,7,5,4,3,2",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "269,335,219,162,109,57",
+                        "endColumns": "64,75,48,55,51,50",
+                        "endOffsets": "329,406,263,213,156,103"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6,7",
@@ -113,9 +40,11 @@
                 {
                     "source": "D:\\Estudio\\Victor\\AppAndroidClima\\MAPD721-P1-VictorQuezada\\gradle\\caches\\transforms-3\\8ee1ed797d6cc28b95d6e33adcbe00e9\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
                     },
                     "to": {
                         "startLines": "8,9,10,11,12,13,14,53",
@@ -128,9 +57,12 @@
                 {
                     "source": "D:\\Estudio\\Victor\\AppAndroidClima\\MAPD721-P1-VictorQuezada\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
-                        "startLines": "-1",
-                        "startColumns": "-1",
-                        "startOffsets": "-1"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "815"
                     },
                     "to": {
                         "startLines": "15",
