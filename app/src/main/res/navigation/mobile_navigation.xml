@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/mobile_navigation">
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/currentWeather">
 
+    <fragment
+        android:id="@+id/currentWeather"
+        android:name="com.example.finalproject.CurrentWeather"
+        android:label="fragment_current_weather"
+        tools:layout="@layout/fragment_current_weather" />
+    <fragment
+        android:id="@+id/detailWeather"
+        android:name="com.example.finalproject.DetailWeather"
+        android:label="fragment_detail_weather"
+        tools:layout="@layout/fragment_detail_weather" />
 </navigation>
