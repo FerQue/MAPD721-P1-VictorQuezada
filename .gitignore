@@ -1,3 +1,4 @@
+# Configuracion de Ginore
 *.iml
 .DS_Store
 
@@ -6,9 +7,13 @@
 .cxx
 
 # Gradle files
-.gradle/
 /gradle/
-/build/
+
+
+# excluir la carpeta pricipal build
+/build
+/app/build/20230410_4639663409724024589.compiler.options
+/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/
 
 # Local configuration file (sdk path, etc)
 local.properties

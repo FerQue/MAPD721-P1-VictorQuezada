@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Estudio\\Victor\\AppAndroidClima\\MAPD721-P1-VictorQuezada\\gradle\\daemon\\7.4\\com.example.finalproject.app-mergeDebugResources-4:\\layout\\fragment_current_weather.xml",
+        "source": "D:\\Estudio\\Victor\\AppAndroidClima\\MAPD721-P1-VictorQuezada\\gradle\\daemon\\7.4\\com.example.finalproject.app-main-7:\\layout\\fragment_current_weather.xml"
+    },
+    {
+        "merged": "D:\\Estudio\\Victor\\AppAndroidClima\\MAPD721-P1-VictorQuezada\\gradle\\daemon\\7.4\\com.example.finalproject.app-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "D:\\Estudio\\Victor\\AppAndroidClima\\MAPD721-P1-VictorQuezada\\gradle\\daemon\\7.4\\com.example.finalproject.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Estudio\\Victor\\AppAndroidClima\\MAPD721-P1-VictorQuezada\\gradle\\daemon\\7.4\\com.example.finalproject.app-mergeDebugResources-4:\\layout\\fragment_item_weather.xml",
+        "source": "D:\\Estudio\\Victor\\AppAndroidClima\\MAPD721-P1-VictorQuezada\\gradle\\daemon\\7.4\\com.example.finalproject.app-main-7:\\layout\\fragment_item_weather.xml"
+    },
+    {
+        "merged": "D:\\Estudio\\Victor\\AppAndroidClima\\MAPD721-P1-VictorQuezada\\gradle\\daemon\\7.4\\com.example.finalproject.app-mergeDebugResources-4:\\layout\\fragment_detail_weather.xml",
+        "source": "D:\\Estudio\\Victor\\AppAndroidClima\\MAPD721-P1-VictorQuezada\\gradle\\daemon\\7.4\\com.example.finalproject.app-main-7:\\layout\\fragment_detail_weather.xml"
+    },
+    {
+        "merged": "D:\\Estudio\\Victor\\AppAndroidClima\\MAPD721-P1-VictorQuezada\\gradle\\daemon\\7.4\\com.example.finalproject.app-mergeDebugResources-4:\\layout\\fragment_item_weather_list.xml",
+        "source": "D:\\Estudio\\Victor\\AppAndroidClima\\MAPD721-P1-VictorQuezada\\gradle\\daemon\\7.4\\com.example.finalproject.app-main-7:\\layout\\fragment_item_weather_list.xml"
+    },
+    {
+        "merged": "com.example.finalproject.app-mergeDebugResources-4:/layout/fragment_item_weather.xml",
+        "source": "com.example.finalproject.app-main-7:/layout/fragment_item_weather.xml"
+    }
+]
