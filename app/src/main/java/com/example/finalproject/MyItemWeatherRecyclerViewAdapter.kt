@@ -39,8 +39,8 @@ class MyItemWeatherRecyclerViewAdapter(
 
     inner class ViewHolder(binding: FragmentItemWeatherBinding) :
         RecyclerView.ViewHolder(binding.root) {
-        val idView: TextView = binding.itemNumber
-        val contentView: TextView = binding.content
+        val idView: TextView = binding.tvDate
+        val contentView: TextView = binding.tvTemperature
 
         override fun toString(): String {
             return super.toString() + " '" + contentView.text + "'"
