@@ -8,11 +8,19 @@ color teal_200
 color teal_700
 color white
 dimen text_margin
+drawable ic_calendar_week
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_settings
+drawable ic_today
+drawable ic_weather_sunny
+id ListWeatherFragment
 id LyItem
+id currentWeatherFragment
 id imageView
 id list
+id mobile_navigation
+id settingsFragment
 id toolbar
 id tvCondition
 id tvDate
@@ -25,6 +33,7 @@ layout fragment_item_weather_list
 menu menu_tool_bar
 mipmap ic_launcher
 mipmap ic_launcher_round
+navigation mobile_navigation
 string app_name
 string dateInfoDescription
 string hello_blank_fragment
